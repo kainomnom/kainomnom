@@ -4,8 +4,8 @@
 
 My names Kai!
 I'm a 4 year experienced lua scripter on the roblox platform💻. 
-I'm a quallified networking technician specialising inside of small workplaces📠. 
-I specailise in movement frameworks, automated systems, camera scripting and much more😛!
+I'm a qualified networking technician specialising inside of small workplaces📠. 
+Programming with Lua, I specailise in movement frameworks, automated systems, camera scripting and much more😛!
 I'm quite new to github and still learning all of the features🐦. 
 I'll be uploading open sourced projects of mine that I've discontinued✨. 
 
