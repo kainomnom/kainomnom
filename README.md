@@ -28,6 +28,7 @@
 </table>
 
 <!---
+Thank you sammy for cleaning up my readme:3 https://github.com/sammypanda
 And let the quest begin!!
 https://pastebin.com/sWknbn0S
 https://pastebin.com/yx2MLbFC
