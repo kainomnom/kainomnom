@@ -11,6 +11,8 @@ I'll be uploading open sourced projects of mine that I've discontinued✨.
 
 <!---
 And let the quest begin!!
+
+btw, you'll need a calculator:3
 https://pastebin.com/sWknbn0S
 https://pastebin.com/yx2MLbFC
 --->
